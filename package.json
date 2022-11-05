@@ -1,0 +1,14 @@
+{
+  "name": "my-personal-website",
+  "version": "0.0.0",
+  "description": "MyPersonalWebsite",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6"
+  }
+}
